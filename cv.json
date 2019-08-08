@@ -1,24 +1,24 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Constanza Argañaraz",
+    "cvTitle":"Hola! Soy Coni",
+    "cvDescription":" Front-end en formacion y diseñadora de imagen y sonido ",
     "social":[
-        {"name":"", "link":""}
+        {"name":"Linkedin", "link":"www.ahrequeestabaaca.com"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Desarrollo front-end", "institution":"Ada Itw", "endYear":"2019", "description":"sarasa"},
+        {"title":"Diseño de Imagen y Sonido", "institution":"UBA", "endYear":"Undefined", "description":"cinema verite"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Html y css", "level":"3 de 5"},
+        {"title":"Js", "level":"2 de 5"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"Fotografia", "sutitle":"Lala", "excerpt":"ke", "text":"lorem ipsum", "images":"ndea"},
+        {"title":"Cine", "sutitle":"Lele", "excerpt":"ke", "text":"lorem impsum", "images":"skere"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"+543875389040",
+        "email":"co.arganaraz@gmail.com"
     }
 }
