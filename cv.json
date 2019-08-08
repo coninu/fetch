@@ -1,5 +1,5 @@
 {
-    "name":"Constanza Argañaraz",
+    "name":"Constanza",
     "cvTitle":"Hola! Soy Coni",
     "cvDescription":" Front-end en formacion y diseñadora de imagen y sonido ",
     "social":[
@@ -18,7 +18,7 @@
         {"title":"Cine", "sutitle":"Lele", "excerpt":"ke", "text":"lorem impsum", "images":"skere"}
     ],
     "contact":{
-        "phone":"+543875389040",
-        "email":"co.arganaraz@gmail.com"
+        "phone":"+12345674",
+        "email":"holalogi@gmail.com"
     }
 }
